@@ -17,7 +17,7 @@ const POEM = [
   'I paid her water. I picked the home',
   'she would not have picked, with a garden,',
   'and the nurses said "your daughter\'s here"',
-  'as you\'d note the weather\'s turned.',
+  'the way you say the weather\'s turned.',
   '',
   'Now the thing on my phone that books my trains',
   'asks, Shall I go ahead? and I hold my thumb',
